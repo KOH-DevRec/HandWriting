@@ -1,4 +1,5 @@
 # HandWriting
+手書き文字フォント生成システム「HandWriting」のリポジトリです。
 
 ## start project
 ### vagrant⇨node.jsを使ったサーバ構築
